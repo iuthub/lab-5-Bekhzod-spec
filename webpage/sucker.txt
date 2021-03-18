@@ -1,0 +1,9 @@
+Bekhzod;001;11111111;VISA
+Donowan Smith;002;22222222;MasterCard
+Donowan;003;333333333;VISA
+John;004;44444444;MasterCard
+Bekhzod;001;11111111;VISA
+Donowan Smith;001;22222222;MasterCard
+Donowan;006;3545345435;VISA
+Bekhzod;001;4565431;MasterCard
+Bekhzod;001;11111111;MasterCard
